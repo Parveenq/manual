@@ -1,3 +1,3 @@
 # manual
-Technical documents
+Technical documents.
 Constituting of manuals.
