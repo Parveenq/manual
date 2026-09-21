@@ -1,32 +1,39 @@
-# GitHub Portfolio
+<h1 align="center">Welcome to Portfolio</h1>
+<Xml>
+<p align="center">
+  <img 
+    src="https://i.pinimg.com/originals/5c/0f/68/5c0f6834e0f766121ee18a619243debc.gif" 
+    alt="Animated image" 
+    width="600" 
+  >
+</p>
+  
+Welcome to my collection of manuals, built for complex data, easy to follow. 
 
-![Profile Image]
+## Type of Manuals
+Click the link to follow the doc
 
-Hi. My name is Nusrat. A Technical Writer at heart, I find joy in writing about everything that inspires me —technology, cinema, nature, books, food, and much more.
+- User Manual
+- Instruction Manual
+- How to
+- Technical Manual
+- Standard Operating Procedures
+
+## About me
+Hi. My name is Parveen. I find joy in writing about things that inspire me, such as technology, cinema, books, daily life, food, and much more.
 
 ## Contact Information / Socials
 - Email: nusi8586@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/nusrat-p-942428230/)
 - [GitHub](https://github.com/Parveenq)
 
-## Education
-University of Delhi
 
-## Experience
-
-
-## Project I
-
-
-## Project II
-
-
-## Projeect III
+## Projects 
 
 ## Skills
 - Markdown
 - HTML
-- Confludence
+- Confluence
 - Jira
 - Technical Writing
 - Content Writing
