@@ -1,14 +1,15 @@
-<h1 align="center">Welcome to Portfolio</h1>
+<h1 align="center">Welcome to Manuals</h1>
 <Xml>
 <p align="center">
   <img 
     src="https://i.pinimg.com/originals/5c/0f/68/5c0f6834e0f766121ee18a619243debc.gif" 
     alt="Animated image" 
-    width="600" 
+    width="400" 
+    height='300'
   >
 </p>
   
-Welcome to my collection of manuals, built for complex data, easy to follow. 
+Welcome to my collection of manuals. Here, complex data is broken down into simple to follow steps. 
 
 ## Type of Manuals
 Click the link to follow the doc
@@ -20,7 +21,7 @@ Click the link to follow the doc
 - Standard Operating Procedures
 
 ## About me
-Hi. My name is Parveen. I find joy in writing about things that inspire me, such as technology, cinema, books, daily life, food, and much more.
+Hi. My name is Parveen. I find joy in writing about things that inspire me, such as technology, cinema, books, travel, daily life, food...
 
 ## Contact Information / Socials
 - Email: nusi8586@gmail.com
@@ -39,6 +40,8 @@ Hi. My name is Parveen. I find joy in writing about things that inspire me, such
 - Content Writing
 
 ## Certifications and Awards
+- Certificate of HTML 2026
+- Certificate of Markdown 2026
 - Certificate of Technical Writing 2024
 - Award for Most Versatile Writer 2022
 
